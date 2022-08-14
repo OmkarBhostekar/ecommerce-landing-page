@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.401ec43a.css",
-    "main.js": "/static/js/main.2de31e05.js",
-    "static/media/banner.png": "/static/media/banner.9a25944074c9c24f249f.png",
-    "static/media/instagram.png": "/static/media/instagram.0c0190d10b8335fa412d.png",
-    "static/media/hero.png": "/static/media/hero.a1208bb1942f9b173d4c.png",
-    "static/media/tees.png": "/static/media/tees.e716b3ba740f657fe7ed.png",
-    "static/media/hoodie.png": "/static/media/hoodie.9b8335fb0e75b75bb8de.png",
-    "static/media/under40.png": "/static/media/under40.8d358fe6b57153f1c2de.png",
-    "static/media/app.png": "/static/media/app.8dd6b0df56c00c31d36b.png",
-    "static/media/coats.png": "/static/media/coats.2c9524b46ecb7c47c9a5.png",
-    "static/media/shopify.png": "/static/media/shopify.1c88e13eac13e95aff23.png",
-    "static/media/amazon.png": "/static/media/amazon.32792f4ad4d30abaf406.png",
-    "static/media/logo.svg": "/static/media/logo.a72662540a0c8c51b0417ab80463d16e.svg",
-    "static/media/insta.svg": "/static/media/insta.6ac485a1e29f4990c31bf025ebf08611.svg",
-    "static/media/twitter.svg": "/static/media/twitter.cf855fc3495f0fc34f0d1d19de8dc7ff.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.846d4bcf8f6d307891e252b0e75a5741.svg",
-    "index.html": "/index.html",
-    "static/media/arrow.svg": "/static/media/arrow.9d4f9d5e31a0e0b90396898109d19746.svg",
-    "static/media/fb.svg": "/static/media/fb.7319920fbf438e8197869dcaedb84a7b.svg",
-    "static/media/leaf.svg": "/static/media/leaf.21c6a37e2cf2b3edbedd7bca6ff201c1.svg",
-    "main.401ec43a.css.map": "/static/css/main.401ec43a.css.map",
-    "main.2de31e05.js.map": "/static/js/main.2de31e05.js.map"
+    "main.css": "/ecommerce-landing-page/static/css/main.401ec43a.css",
+    "main.js": "/ecommerce-landing-page/static/js/main.6af70337.js",
+    "static/media/banner.png": "/ecommerce-landing-page/static/media/banner.9a25944074c9c24f249f.png",
+    "static/media/instagram.png": "/ecommerce-landing-page/static/media/instagram.0c0190d10b8335fa412d.png",
+    "static/media/hero.png": "/ecommerce-landing-page/static/media/hero.a1208bb1942f9b173d4c.png",
+    "static/media/tees.png": "/ecommerce-landing-page/static/media/tees.e716b3ba740f657fe7ed.png",
+    "static/media/hoodie.png": "/ecommerce-landing-page/static/media/hoodie.9b8335fb0e75b75bb8de.png",
+    "static/media/under40.png": "/ecommerce-landing-page/static/media/under40.8d358fe6b57153f1c2de.png",
+    "static/media/app.png": "/ecommerce-landing-page/static/media/app.8dd6b0df56c00c31d36b.png",
+    "static/media/coats.png": "/ecommerce-landing-page/static/media/coats.2c9524b46ecb7c47c9a5.png",
+    "static/media/shopify.png": "/ecommerce-landing-page/static/media/shopify.1c88e13eac13e95aff23.png",
+    "static/media/amazon.png": "/ecommerce-landing-page/static/media/amazon.32792f4ad4d30abaf406.png",
+    "static/media/logo.svg": "/ecommerce-landing-page/static/media/logo.a72662540a0c8c51b0417ab80463d16e.svg",
+    "static/media/insta.svg": "/ecommerce-landing-page/static/media/insta.6ac485a1e29f4990c31bf025ebf08611.svg",
+    "static/media/twitter.svg": "/ecommerce-landing-page/static/media/twitter.cf855fc3495f0fc34f0d1d19de8dc7ff.svg",
+    "static/media/linkedin.svg": "/ecommerce-landing-page/static/media/linkedin.846d4bcf8f6d307891e252b0e75a5741.svg",
+    "index.html": "/ecommerce-landing-page/index.html",
+    "static/media/arrow.svg": "/ecommerce-landing-page/static/media/arrow.9d4f9d5e31a0e0b90396898109d19746.svg",
+    "static/media/fb.svg": "/ecommerce-landing-page/static/media/fb.7319920fbf438e8197869dcaedb84a7b.svg",
+    "static/media/leaf.svg": "/ecommerce-landing-page/static/media/leaf.21c6a37e2cf2b3edbedd7bca6ff201c1.svg",
+    "main.401ec43a.css.map": "/ecommerce-landing-page/static/css/main.401ec43a.css.map",
+    "main.6af70337.js.map": "/ecommerce-landing-page/static/js/main.6af70337.js.map"
   },
   "entrypoints": [
     "static/css/main.401ec43a.css",
-    "static/js/main.2de31e05.js"
+    "static/js/main.6af70337.js"
   ]
 }
