@@ -5,6 +5,8 @@ import Arrivals from "./components/Arrivals";
 import Sale from "./components/Sale";
 import Favourites from "./components/Favourites";
 import MobileApp from "./components/MobileApp";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       <Sale />
       <Favourites />
       <MobileApp />
+      <Contact />
+      <Footer />
     </div>
   );
 }
