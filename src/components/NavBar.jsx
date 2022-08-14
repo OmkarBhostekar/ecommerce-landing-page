@@ -21,7 +21,7 @@ const NavBar = () => {
     },
   ];
   return (
-    <div className="mt-8 mx-20 flex justify-between items-center">
+    <div className="mt-8 md:mx-20 mx-8 flex justify-between items-center">
       <div className="">
         <img src={logo} alt="" className="h-8" />
       </div>

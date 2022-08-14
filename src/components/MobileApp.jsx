@@ -5,10 +5,10 @@ import android from "../assets/android.png";
 
 const MobileApp = () => {
   return (
-    <div className="flex mx-6 items-center my-8">
-      <div className="flex w-1/2 items-center justify-center">
+    <div className="flex flex-col-reverse md:flex-row mx-6 items-center my-8">
+      <div className="flex md:w-1/2 items-center justify-center">
         <div className="">
-          <p className="text-5xl font-extrabold ">
+          <p className="md:text-5xl text-3xl mt-4 md:mt-0 font-extrabold ">
             DOWNLOAD APP & <br />
             GET THE VOUCHER!
           </p>
@@ -22,7 +22,7 @@ const MobileApp = () => {
           </div>
         </div>
       </div>
-      <div className="w-1/2">
+      <div className="md:w-1/2">
         <img src={app} alt="" className="w-3/4 mx-auto" />
       </div>
     </div>

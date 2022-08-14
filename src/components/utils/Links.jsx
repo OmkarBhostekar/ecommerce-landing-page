@@ -23,11 +23,13 @@ const Links = () => {
     <div className="flex grid-cols-3 justify-between flex-grow">
       {list.map((category) => (
         <div className="" key={category.id}>
-          <p className="text-[#D9D9D9] text-md font-semibold">
+          <p className="text-[#D9D9D9] md:text-md text-sm font-semibold">
             {category.title}
           </p>
           {category.links.map((text) => (
-            <p className="text-[#8E8E8E] text-md mt-4 cursor-pointer">{text}</p>
+            <p className="text-[#8E8E8E] md:text-md text-sm mt-4 cursor-pointer">
+              {text}
+            </p>
           ))}
         </div>
       ))}

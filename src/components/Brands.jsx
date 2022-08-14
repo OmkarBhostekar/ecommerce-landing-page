@@ -34,13 +34,13 @@ const Brands = () => {
     },
   ];
   return (
-    <div className="mt-12 bg-[#EBD96B] h-32 flex items-center justify-evenly">
+    <div className="mt-12 bg-[#EBD96B] md:h-32 md:flex items-center justify-evenly grid-cols-2 grid py-6 md:py-0">
       {brands.map((b) => (
         <img
           key={b.id}
           src={b.src}
           alt=""
-          className="w-28 hover:scale-105 duration-200 cursor-pointer"
+          className="mx-auto w-28 md:hover:scale-105 duration-200 cursor-pointer mt-4"
         />
       ))}
     </div>

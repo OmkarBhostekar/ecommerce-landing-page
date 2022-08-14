@@ -28,9 +28,9 @@ const Arrivals = () => {
   ];
 
   return (
-    <div className="m-16">
+    <div className="md:m-16 m-4 mt-12">
       <Title text="NEW ARRIVALS" />
-      <div className="flex grid-cols-3 gap-24 mr-24 mt-16">
+      <div className="flex grid-cols-3 md:gap-24 gap-6 md:mr-24 mt-16">
         {list.map((card) => (
           <FashionCard card={card} />
         ))}

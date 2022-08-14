@@ -8,10 +8,10 @@ const FashionCard = (props) => {
       <img src={card.src} alt="" />
       <div className="flex py-4 px-2 items-center justify-between">
         <div className="">
-          <p className="text-xl">{card.title}</p>
-          <p className="text-md text-[#7F7F7F]">{card.subtitle}</p>
+          <p className="md:text-xl text-md">{card.title}</p>
+          <p className="md:text-md text-sm text-[#7F7F7F]">{card.subtitle}</p>
         </div>
-        <img src={arrow} alt="" className="w-8" />
+        <img src={arrow} alt="" className="md:w-8 w-4" />
       </div>
     </div>
   );

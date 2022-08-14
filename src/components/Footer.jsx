@@ -26,8 +26,8 @@ const Footer = () => {
     },
   ];
   return (
-    <div className="flex bg-black p-24">
-      <div className="w-1/2">
+    <div className="flex flex-col md:flex-row bg-black md:p-24 p-12">
+      <div className="md:w-1/2">
         <p className="text-white text-3xl font-bold">FASHION</p>
         <p className="text-[#8E8E8E] text-md mt-4">
           Complete your style with awesome
@@ -40,7 +40,7 @@ const Footer = () => {
           ))}
         </div>
       </div>
-      <div className="w-1/2">
+      <div className="md:w-1/2 mt-12 md:mt-0">
         <Links />
       </div>
     </div>

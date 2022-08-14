@@ -2,11 +2,11 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div className="bg-my-yellow p-24 text-center content-center">
-      <p className="text-5xl font-extrabold text-white leading-snug">
+    <div className="bg-my-yellow md:p-24 p-12 text-center content-center">
+      <p className="md:text-5xl text-2xl font-extrabold text-white leading-snug">
         JOIN SHOPPING COMMUNITY TO <br /> GET MONTHLY PROMO
       </p>
-      <p className="text-xl text-white mt-4">
+      <p className="md:text-xl text-lg text-white mt-4">
         Type your email down below and be young wild generation
       </p>
       <div className="w-fit bg-white px-6 py-2 rounded-md mx-auto mt-12">

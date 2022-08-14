@@ -21,9 +21,9 @@ const Favourites = () => {
   ];
 
   return (
-    <div className="m-16">
+    <div className="md:m-16 m-4 mt-12">
       <Title text="Young’s Favourite" />
-      <div className="flex grid-cols-2 gap-24 mr-24 mt-16">
+      <div className="flex grid-cols-2 md:gap-24 gap-4 md:mr-24 mt-16">
         {list.map((card) => (
           <FashionCard card={card} />
         ))}
